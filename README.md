@@ -47,18 +47,3 @@ This project is a Telegram bot written in Python using the **Pyrogram** library.
     ```bash
     python bot.py
     ```
-
-## Required Libraries
-
-- **Pyrogram**: To interact with Telegram API.
-- **SpeechRecognition**: For voice-to-text conversion.
-- **Soundfile**: To handle audio files.
-- **time, random, os**: Standard libraries for time management and file operations.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to update or adjust any details as necessary!
