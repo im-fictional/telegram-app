@@ -26,7 +26,7 @@ This project is a Telegram bot written in Python using the **Pyrogram** library.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
+    git clone https://github.com/im-fictional/telegram-app.git
     ```
    
 2. Install the dependencies:
